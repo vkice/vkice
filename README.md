@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Here you can find any fun/slightly useful projects, scripts, or automations I've created.
-
-Current project I am working on is automation deployment of a Discord bot written in Python through a Bitbucket pipelines deploying to ECR and ECS upon commit.
